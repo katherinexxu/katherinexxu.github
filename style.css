@@ -46,4 +46,9 @@ img{
   #web-ring a:hover {
     text-decoration: underline;
   }
+
+  .fireflies{
+    width: 400px;
+    height: 400px;
+  }
         
